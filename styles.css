@@ -467,7 +467,7 @@ nav.on-dark{color:var(--paper);}
 }
 
 /* ===================== PAGE 7 — COMPARAÇÃO ===================== */
-#comparacao{background:linear-gradient(90deg, var(--paper) 50%, var(--void) 50%);}
+/* #comparacao{background:linear-gradient(90deg, var(--paper) 50%, var(--void) 50%);} */
 .compare-wrap{max-width:1120px;margin:0 auto;padding:0 32px;}
 .compare-table{
   display:grid;
