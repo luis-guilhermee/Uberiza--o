@@ -485,7 +485,7 @@ nav.on-dark{color:var(--paper);}
   border-bottom:1px solid;
 }
 .cmp-left .cmp-head{border-color:var(--line-light);}
-.cmp-right .cmp-head{border-color:var(--line-dark);color:var(--paper);}
+.cmp-right .cmp-head{border-color:var(--line-light);color:var(--paper);}
 .cmp-row{
   padding:20px 28px;
   font-size:0.95rem;
@@ -495,7 +495,7 @@ nav.on-dark{color:var(--paper);}
   min-height:34px;
 }
 .cmp-left .cmp-row{border-color:var(--line-light);}
-.cmp-right .cmp-row{border-color:var(--line-dark);}
+.cmp-right .cmp-row{border-color:var(--line-light);}
 .cmp-col .cmp-row:last-child{border-bottom:none;}
 .cmp-vs{
   text-align:center;
